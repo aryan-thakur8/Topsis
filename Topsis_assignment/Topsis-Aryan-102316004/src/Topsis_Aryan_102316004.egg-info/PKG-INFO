@@ -4,7 +4,7 @@ Version: 1.0.0
 Summary: A Python package for TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution)
 Home-page: https://github.com/aryan/topsis
 Author: Aryan Thakur
-Author-email: aryan@example.com
+Author-email: aryanthakur@example.com
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
@@ -150,3 +150,4 @@ streamlit run app.py
 ## ï¿½ðŸ“„ License
 
 This project is licensed under the MIT License.
+
